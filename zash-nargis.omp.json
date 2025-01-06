@@ -30,6 +30,11 @@
             "type": "prompt"
         },
         {
+            "type": "spacer",
+            "alignment": "left",
+            "style": "plain"
+        },
+        {
             "alignment": "right",
             "segments": [
                 {
